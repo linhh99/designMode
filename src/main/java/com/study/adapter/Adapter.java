@@ -6,7 +6,7 @@ import com.study.adapter.turkey.Turkey;
 import com.study.adapter.turkey.TurkeyImpl;
 
 /**
- * 设计模式  -  适配器模式
+ * 设计模式  -  适配器模式 对象的适配器
  */
 public class Adapter {
 
